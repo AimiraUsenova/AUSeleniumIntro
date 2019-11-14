@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bb8d33d-e289-4410-aa42-4fdcc22c52a3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ScygEvf0yCLq5QuxEdFWzP5Y8x" />
+  <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/test/java/com/techtorial" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/selenium-server-standalone-3.141.59.jar!/" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.techtorial" />
+      <recent name="test.java.com.techtorial" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.techtorial.Util" />
+      <recent name="TEST.TestNGPractice" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/aimirausenova/Documents/SeleniumIntroduction/OrangeHRM.xml">
+    <configuration name="OrangeHRMTest.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumIntroduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techtorial.TestNGParameterPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techtorial.TestNGParameterPractice" />
+      <option name="MAIN_CLASS_NAME" value="com.techtorial.TestNGParameterPractice.OrangeHRMTest" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNG_Annotations (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumIntroduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TEST.TestNGPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TEST.TestNGPractice" />
+      <option name="MAIN_CLASS_NAME" value="TEST.TestNGPractice.TestNG_Annotations" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNG_Annotations" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumIntroduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TEST.TestNGPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TEST.TestNGPractice" />
+      <option name="MAIN_CLASS_NAME" value="TEST.TestNGPractice.TestNG_Annotations" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="TestNG" nameIsGenerated="true">
+      <module name="SeleniumIntroduction" />
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/aimirausenova/Documents/SeleniumIntroduction/OrangeHRM.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumIntroduction" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/OrangeHRM.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/aimirausenova/Documents/SeleniumIntroduction/TestNGRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumIntroduction" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNGRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.Unnamed" />
+      <item itemvalue="TestNG.TestNG_Annotations" />
+      <item itemvalue="TestNG.TestNG_Annotations (2)" />
+      <item itemvalue="TestNG./Users/aimirausenova/Documents/SeleniumIntroduction/TestNGRunner.xml" />
+      <item itemvalue="TestNG.OrangeHRMTest.loginTest" />
+      <item itemvalue="TestNG./Users/aimirausenova/Documents/SeleniumIntroduction/OrangeHRM.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/aimirausenova/Documents/SeleniumIntroduction/OrangeHRM.xml" />
+        <item itemvalue="TestNG.OrangeHRMTest.loginTest" />
+        <item itemvalue="TestNG./Users/aimirausenova/Documents/SeleniumIntroduction/TestNGRunner.xml" />
+        <item itemvalue="TestNG.TestNG_Annotations" />
+        <item itemvalue="TestNG.TestNG_Annotations (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bb8d33d-e289-4410-aa42-4fdcc22c52a3" name="Default Changelist" comment="" />
+      <created>1571877287995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571877287995</updated>
+    </task>
+    <servers />
+  </component>
+</project>
