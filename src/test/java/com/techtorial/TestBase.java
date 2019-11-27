@@ -6,18 +6,23 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
+import java.util.concurrent.TimeUnit;
+
 public class TestBase {
 
-  public WebDriver driver;
+  public static WebDriver driver;
 
   @Parameters("driverName")
-
-    @BeforeClass
+  @BeforeClass(alwaysRun = true)
     public void setUpDriver(String driverName) {
 
         driver= DriverUtil.driverSetup(driverName);//from parameters
 
-    }
+      driver.manage().window().maximize();
+      driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+
+
+  }
     //@AfterClass
     public void closeDriver() {
         if (driver!=null){

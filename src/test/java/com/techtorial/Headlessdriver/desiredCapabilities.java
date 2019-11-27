@@ -7,10 +7,10 @@ import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.annotations.Test;
 
-public class headlessDriverIntro {
+public class desiredCapabilities {
 
     @Test
-    public void headless() {
+    public void desiredCapabilities() {
 
         DesiredCapabilities desiredCapabilities=new DesiredCapabilities();
         desiredCapabilities.setCapability(CapabilityType.BROWSER_NAME,"meSpecialBrowser");
@@ -23,10 +23,5 @@ public class headlessDriverIntro {
         chromeOptions.setCapability(CapabilityType.VERSION,"5.7");
 
         WebDriver driver=new ChromeDriver(desiredCapabilities);
-
-
-
-
-
     }
 }

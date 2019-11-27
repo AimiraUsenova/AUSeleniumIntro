@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2bb8d33d-e289-4410-aa42-4fdcc22c52a3" name="Default Changelist" comment="" />
+    <list default="true" id="2bb8d33d-e289-4410-aa42-4fdcc22c52a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrangeHRM.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OrangeHRM.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumIntroduction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumIntroduction.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phantomjsdriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/phantomjsdriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/HWPhantomJSDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/HWPhantomJSDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Headlessdriver/desiredCapabilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Headlessdriver/desiredCapabilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Headlessdriver/headlessDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Headlessdriver/headlessDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/IFrameIntro/iFrame1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/IFrameIntro/iFrame1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/IFrameIntro/iframe2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/IFrameIntro/iframe2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/JSexexecutorIntro/HWCssWithJSexecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/JSexexecutorIntro/HWCssWithJSexecutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/JSexexecutorIntro/JSIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/JSexexecutorIntro/JSIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/TestNGParameterPractice/OrangeHRMDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/TestNGParameterPractice/OrangeHRMDataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/TestNGParameterPractice/OrangeHRMTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/TestNGParameterPractice/OrangeHRMTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Util/BrowserUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Util/BrowserUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Util/PropertiesUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Util/PropertiesUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/cookiesIntro/Cookies1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/cookiesIntro/Cookies1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/pages/OrangeHRMPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/pages/OrangeHRMPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/credentials.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/credentials.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/TestNGParameterPractice/OrangeHRMTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/TestNGParameterPractice/OrangeHRMTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/pages/OrangeHRMPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/pages/OrangeHRMPage.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +39,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ScygEvf0yCLq5QuxEdFWzP5Y8x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/test/java/com/techtorial" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/selenium-server-standalone-3.141.59.jar!/" />
     <property name="project.structure.last.edited" value="Project" />
@@ -46,18 +75,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/aimirausenova/Documents/SeleniumIntroduction/OrangeHRM.xml">
-    <configuration name="OrangeHRMTest.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.headlessDriver.setHTMLUnitDriver">
+    <configuration name="Cookies1.getCookies" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumIntroduction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.techtorial.TestNGParameterPractice.*" />
+          <option name="PATTERN" value="com.techtorial.cookiesIntro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.techtorial.TestNGParameterPractice" />
-      <option name="MAIN_CLASS_NAME" value="com.techtorial.TestNGParameterPractice.OrangeHRMTest" />
-      <option name="METHOD_NAME" value="loginTest" />
+      <option name="PACKAGE_NAME" value="com.techtorial.cookiesIntro" />
+      <option name="MAIN_CLASS_NAME" value="com.techtorial.cookiesIntro.Cookies1" />
+      <option name="METHOD_NAME" value="getCookies" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -65,16 +94,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNG_Annotations (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HWPhantomJSDriver" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumIntroduction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TEST.TestNGPractice.*" />
+          <option name="PATTERN" value="com.techtorial.IFrameIntro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TEST.TestNGPractice" />
-      <option name="MAIN_CLASS_NAME" value="TEST.TestNGPractice.TestNG_Annotations" />
+      <option name="PACKAGE_NAME" value="com.techtorial" />
+      <option name="MAIN_CLASS_NAME" value="com.techtorial.HWPhantomJSDriver" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -82,17 +111,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNG_Annotations" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HWPhantomJSDriver.HTMLUnitDriver" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumIntroduction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TEST.TestNGPractice.*" />
+          <option name="PATTERN" value="com.techtorial.IFrameIntro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TEST.TestNGPractice" />
-      <option name="MAIN_CLASS_NAME" value="TEST.TestNGPractice.TestNG_Annotations" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="com.techtorial" />
+      <option name="MAIN_CLASS_NAME" value="com.techtorial.HWPhantomJSDriver" />
+      <option name="METHOD_NAME" value="HTMLUnitDriver" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HWPhantomJSDriver.PhantomJSDriver" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumIntroduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techtorial.IFrameIntro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techtorial" />
+      <option name="MAIN_CLASS_NAME" value="com.techtorial.HWPhantomJSDriver" />
+      <option name="METHOD_NAME" value="PhantomJSDriver" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -117,20 +165,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/aimirausenova/Documents/SeleniumIntroduction/OrangeHRM.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="headlessDriver.setHTMLUnitDriver" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumIntroduction" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/OrangeHRM.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="/Users/aimirausenova/Documents/SeleniumIntroduction/TestNGRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumIntroduction" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNGRunner.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techtorial.Headlessdriver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techtorial.Headlessdriver" />
+      <option name="MAIN_CLASS_NAME" value="com.techtorial.Headlessdriver.headlessDriver" />
+      <option name="METHOD_NAME" value="setHTMLUnitDriver" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -139,19 +185,19 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.Unnamed" />
-      <item itemvalue="TestNG.TestNG_Annotations" />
-      <item itemvalue="TestNG.TestNG_Annotations (2)" />
-      <item itemvalue="TestNG./Users/aimirausenova/Documents/SeleniumIntroduction/TestNGRunner.xml" />
-      <item itemvalue="TestNG.OrangeHRMTest.loginTest" />
-      <item itemvalue="TestNG./Users/aimirausenova/Documents/SeleniumIntroduction/OrangeHRM.xml" />
+      <item itemvalue="TestNG.Cookies1.getCookies" />
+      <item itemvalue="TestNG.HWPhantomJSDriver" />
+      <item itemvalue="TestNG.HWPhantomJSDriver.PhantomJSDriver" />
+      <item itemvalue="TestNG.HWPhantomJSDriver.HTMLUnitDriver" />
+      <item itemvalue="TestNG.headlessDriver.setHTMLUnitDriver" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG./Users/aimirausenova/Documents/SeleniumIntroduction/OrangeHRM.xml" />
-        <item itemvalue="TestNG.OrangeHRMTest.loginTest" />
-        <item itemvalue="TestNG./Users/aimirausenova/Documents/SeleniumIntroduction/TestNGRunner.xml" />
-        <item itemvalue="TestNG.TestNG_Annotations" />
-        <item itemvalue="TestNG.TestNG_Annotations (2)" />
+        <item itemvalue="TestNG.headlessDriver.setHTMLUnitDriver" />
+        <item itemvalue="TestNG.HWPhantomJSDriver.HTMLUnitDriver" />
+        <item itemvalue="TestNG.HWPhantomJSDriver" />
+        <item itemvalue="TestNG.HWPhantomJSDriver.PhantomJSDriver" />
+        <item itemvalue="TestNG.Cookies1.getCookies" />
       </list>
     </recent_temporary>
   </component>
@@ -167,5 +213,21 @@
       <updated>1571877287995</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>

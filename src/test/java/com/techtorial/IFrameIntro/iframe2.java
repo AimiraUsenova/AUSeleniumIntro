@@ -1,4 +1,4 @@
-package com.techtorial;
+package com.techtorial.IFrameIntro;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
