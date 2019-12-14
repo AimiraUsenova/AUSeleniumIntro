@@ -3,30 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2bb8d33d-e289-4410-aa42-4fdcc22c52a3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrangeHRM.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OrangeHRM.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumIntroduction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumIntroduction.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phantomjsdriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/phantomjsdriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/HWPhantomJSDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/HWPhantomJSDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Headlessdriver/desiredCapabilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Headlessdriver/desiredCapabilities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Headlessdriver/headlessDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Headlessdriver/headlessDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/IFrameIntro/iFrame1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/IFrameIntro/iFrame1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/IFrameIntro/iframe2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/IFrameIntro/iframe2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/JSexexecutorIntro/HWCssWithJSexecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/JSexexecutorIntro/HWCssWithJSexecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/JSexexecutorIntro/JSIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/JSexexecutorIntro/JSIntro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/TestNGParameterPractice/OrangeHRMDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/TestNGParameterPractice/OrangeHRMDataProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/TestNGParameterPractice/OrangeHRMTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/TestNGParameterPractice/OrangeHRMTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Util/BrowserUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Util/BrowserUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Util/PropertiesUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Util/PropertiesUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/cookiesIntro/Cookies1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/cookiesIntro/Cookies1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/pages/OrangeHRMPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/pages/OrangeHRMPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/credentials.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/credentials.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/TestBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/TestNGParameterPractice/OrangeHRMTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/TestNGParameterPractice/OrangeHRMTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/pages/OrangeHRMPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/pages/OrangeHRMPage.class" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,8 +19,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1ScygEvf0yCLq5QuxEdFWzP5Y8x" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/test/java/com/techtorial" />
@@ -62,18 +51,6 @@
       <recent name="com.techtorial.Util" />
       <recent name="TEST.TestNGPractice" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="TestNG.headlessDriver.setHTMLUnitDriver">
     <configuration name="Cookies1.getCookies" type="TestNG" temporary="true" nameIsGenerated="true">
@@ -201,6 +178,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -212,6 +201,21 @@
       <option name="presentableId" value="Default" />
       <updated>1571877287995</updated>
     </task>
+    <task id="LOCAL-00001" summary="NEW">
+      <created>1574815324414</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574815324414</updated>
+    </task>
+    <task id="LOCAL-00002" summary="NEW">
+      <created>1574815427341</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574815427341</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,6 +232,13 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="NEW" />
+    <option name="LAST_COMMIT_MESSAGE" value="NEW" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="408" y="167" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575396335186">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="408" y="167" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.816@0.23.1440.816" timestamp="1575396335186" />
   </component>
 </project>
